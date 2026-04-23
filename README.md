@@ -37,7 +37,7 @@ Fraud detection is a critical problem in fintech, where missing fraudulent trans
 
 ## 📊 Dataset
 
-* Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud (Due to file size limitations, the dataset is not included)
+* Source: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud 
 * Features:
 
   * **V1–V28**: PCA-transformed features (anonymized)
@@ -205,5 +205,5 @@ Instead of using a single model:
 ├── README.md
 ```
 
-
-
+(Due to file size limitations, the dataset is not included. You can download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
