@@ -197,10 +197,15 @@ Instead of using a single model:
 
 ## 📁 Project Structure
 
-```
 ├── data/
 │   └── creditcard.csv
 ├── notebooks/
 │   └── fraud_detection.ipynb
 ├── README.md
-```
+
+## Dataset
+
+Due to file size limitations, the dataset is not included.
+
+You can download it from:
+https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
