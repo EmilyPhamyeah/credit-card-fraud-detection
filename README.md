@@ -1,6 +1,3 @@
-Here is a **clean, professional `README.md`** you can use directly for GitHub:
-
----
 
 # 💳 Credit Card Fraud Detection
 
